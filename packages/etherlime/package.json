@@ -1,6 +1,6 @@
 {
   "name": "etherlime-argent",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "description": "etherlime-argent is an Argent specific implementation of etherlime",
   "main": "index.js",
   "scripts": {
